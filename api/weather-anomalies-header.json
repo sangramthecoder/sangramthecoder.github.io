@@ -1,0 +1,14 @@
+{
+    "weathernaomaliesHeader" : [
+        { "name": "Date", "selector": "date_str" },
+        { "name": "Degress from Mean", "selector": "degrees_from_mean" },
+        { "name": "Id", "selector": "id" },
+        { "name": "Longitude", "selector": "longitude" },
+        { "name": "Latitude", "selector": "latitude" },
+        { "name": "Max Temperature", "selector": "max_temp" },
+        { "name": "Min Temperature", "selector": "min_temp" },
+        { "name": "Station Name", "selector": "station_name" },
+        { "name": "Weather Type", "selector": "type" },
+        { "name": "Serial Id", "selector": "serialid" }
+    ]
+}
